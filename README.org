@@ -1,0 +1,16 @@
+* Refs
+- https://bugzmanov.github.io/nes_ebook/
+- https://github.com/hayatoito/nes
+- [[id:e893dd23-423a-423a-87ab-e07fb972edcd][Writing NES Emulator in Rust]]
+* Task [3/3]
+** [1/1] 1. Introduction
+- [X] https://bugzmanov.github.io/nes_ebook/chapter_1.html
+** [1/1] 2. NES Platform
+- [X] https://bugzmanov.github.io/nes_ebook/chapter_2.html
+** [5/5] 3. Emulating CPU
+~/src/nes_ebook/code/ch3.3/src/opcodes.rs
+- [X] https://bugzmanov.github.io/nes_ebook/chapter_3.html
+- [X] Refactor adc()
+- [X] sbc()
+- [X] and()
+- [X] eor()
